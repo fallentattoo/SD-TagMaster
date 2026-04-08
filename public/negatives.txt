@@ -1,0 +1,8 @@
+Negativos
+#ef4444
+worst quality
+low quality
+normal quality
+jpeg artifacts
+signature
+watermark

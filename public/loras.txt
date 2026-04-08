@@ -1,0 +1,5 @@
+🔌 LoRAs
+#8b5cf6
+<lora:epi_noiseoffset_v2:1.0>
+<lora:add_detail:1.0>
+<lora:more_details:1.0>
