@@ -517,7 +517,9 @@ export default function App() {
               
               const tags: string[] = [];
               lines.forEach(line => {
-                if (line.includes(':')) {
+                if (line.startsWith('\\\\')) {
+                  tags.push(line);
+                } else if (line.includes(':')) {
                   const [tagKey, trans] = line.split(':').map(s => s.trim());
                   if (tagKey) {
                     tags.push(tagKey);
@@ -776,12 +778,12 @@ export default function App() {
       let totalTags = 0;
       customKeys.forEach(cat => {
         if (Array.isArray(allCategories[cat])) {
-          totalTags += allCategories[cat].length;
+          totalTags += allCategories[cat].filter(t => !t.startsWith('\\\\')).length;
         }
       });
       libKeys.forEach(k => {
         if (Array.isArray(libraryData[k])) {
-          totalTags += libraryData[k].length;
+          totalTags += libraryData[k].filter(t => !t.startsWith('\\\\')).length;
         }
       });
       
@@ -800,6 +802,7 @@ export default function App() {
         // For now, let's assign a default color or leave it empty.
         const catColor = '#4b5563'; // default gray for custom
         tags.forEach(t => {
+          if (t.startsWith('\\\\')) return;
           const base = t.replace(/^\(+|\)+$/g, '').split(':')[0].trim().toLowerCase();
           tagToColorMap.set(base, catColor);
         });
@@ -808,6 +811,17 @@ export default function App() {
         const renderTags = () => {
           if (rendered) return;
           tags.forEach(t => {
+            if (t.startsWith('\\\\')) {
+              const sep = document.createElement('div');
+              sep.className = 'lib-tag-separator';
+              sep.style.cssText = 'width: 100%; text-align: center; font-size: 0.85em; font-weight: 600; color: var(--text-muted); margin: 12px 0 4px 0; display: flex; align-items: center;';
+              const line1 = document.createElement('div'); line1.style.cssText = 'flex: 1; height: 1px; background: var(--border-color); margin-right: 10px;';
+              const line2 = document.createElement('div'); line2.style.cssText = 'flex: 1; height: 1px; background: var(--border-color); margin-left: 10px;';
+              const text = document.createElement('span'); text.textContent = t.substring(2).trim();
+              sep.appendChild(line1); sep.appendChild(text); sep.appendChild(line2);
+              tagContainer.appendChild(sep);
+              return;
+            }
             const item = document.createElement('div'); item.className = 'lib-tag';
             if (selectedLibraryTags.has(t)) item.classList.add('selected-for-add');
             
@@ -845,7 +859,7 @@ export default function App() {
             renderTags();
             group.classList.toggle('collapsed');
           },
-          onImportAll: () => tags.forEach(t => addTag(t)),
+          onImportAll: () => tags.forEach(t => { if (!t.startsWith('\\\\')) addTag(t); }),
           onAddSingle: () => addTagToCategory(cat),
           onDelete: () => {
             showConfirm('Excluir Categoria', `Excluir a categoria "${cat}" e todas as suas ${tags.length} tag(s)?`, () => {
@@ -875,6 +889,7 @@ export default function App() {
         let catColor = libraryCategoryColors[k] || '#3b82f6';
         
         tags.forEach(t => {
+          if (t.startsWith('\\\\')) return;
           const base = t.replace(/^\(+|\)+$/g, '').split(':')[0].trim().toLowerCase();
           tagToColorMap.set(base, catColor);
         });
@@ -883,6 +898,17 @@ export default function App() {
         const renderTags = () => {
           if (rendered) return;
           tags.forEach(t => {
+            if (t.startsWith('\\\\')) {
+              const sep = document.createElement('div');
+              sep.className = 'lib-tag-separator';
+              sep.style.cssText = 'width: 100%; text-align: center; font-size: 0.85em; font-weight: 600; color: var(--text-muted); margin: 12px 0 4px 0; display: flex; align-items: center;';
+              const line1 = document.createElement('div'); line1.style.cssText = 'flex: 1; height: 1px; background: var(--border-color); margin-right: 10px;';
+              const line2 = document.createElement('div'); line2.style.cssText = 'flex: 1; height: 1px; background: var(--border-color); margin-left: 10px;';
+              const text = document.createElement('span'); text.textContent = t.substring(2).trim();
+              sep.appendChild(line1); sep.appendChild(text); sep.appendChild(line2);
+              tagContainer.appendChild(sep);
+              return;
+            }
             const item = document.createElement('div'); item.className = 'lib-tag';
             if (selectedLibraryTags.has(t)) item.classList.add('selected-for-add');
             
@@ -913,7 +939,7 @@ export default function App() {
             renderTags();
             group.classList.toggle('collapsed');
           },
-          onImportAll: () => tags.forEach(t => addTag(t))
+          onImportAll: () => tags.forEach(t => { if (!t.startsWith('\\\\')) addTag(t); })
         }, catColor));
 
         group.appendChild(tagContainer);
@@ -2341,7 +2367,9 @@ export default function App() {
     const tags: string[] = [];
 
     lines.forEach(line => {
-      if (line.includes(':')) {
+      if (line.startsWith('\\\\')) {
+        tags.push(line);
+      } else if (line.includes(':')) {
         const [key, trans] = line.split(':').map(s => s.trim());
         if (key) {
           tags.push(key);
