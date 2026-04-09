@@ -1,5 +1,95 @@
 [
   {
+    "file": "creamkitty.txt",
+    "name": "Cream Kitty",
+    "color": "#9d7fb3",
+    "enabled": true
+  },
+    {
+    "file": "geral-sd15.txt",
+    "name": "Geral - SD 1.5",
+    "color": "#96bb5e",
+    "enabled": true
+  },
+  {
+    "file": "geral-sdxl.txt",
+    "name": "Geral - SDXL",
+    "color": "#96bb5e",
+    "enabled": true
+  },
+  {
+    "file": "geral-pony.txt",
+    "name": "Geral - Pony",
+    "color": "#96bb5e",
+    "enabled": true
+  },
+  {
+    "file": "geral-illxl.txt",
+    "name": "Geral - Illustrious / Noob XL",
+    "color": "#96bb5e",
+    "enabled": true
+  },
+  {
+    "file": "geral-rvxl.txt",
+    "name": "Geral - Realistas SDXL",
+    "color": "#96bb5e",
+    "enabled": true
+  },
+  {
+    "file": "geral-zimg.txt",
+    "name": "Geral - Z Image",
+    "color": "#96bb5e",
+    "enabled": true
+  },
+  {
+    "file": "geral-hid.txt",
+    "name": "Geral - HiDream-I1",
+    "color": "#96bb5e",
+    "enabled": true
+  },
+  {
+    "file": "geral-flux1.txt",
+    "name": "Geral - FLUX.1",
+    "color": "#96bb5e",
+    "enabled": true
+  },
+  {
+    "file": "geral-flux2.txt",
+    "name": "Geral - FLUX.2",
+    "color": "#96bb5e",
+    "enabled": true
+  },
+  {
+    "file": "geral-wan.txt",
+    "name": "Geral - Wan v2",
+    "color": "#96bb5e",
+    "enabled": true
+  },
+  {
+    "file": "geral-ltx.txt",
+    "name": "Geral - LTX",
+    "color": "#96bb5e",
+    "enabled": true
+  },
+  {
+    "file": "geral-hunyuan.txt",
+    "name": "Geral - Hunyuan Video",
+    "color": "#96bb5e",
+    "enabled": true
+  },
+  {
+    "file": "geral-skyreels.txt",
+    "name": "Geral - SkyReels v1",
+    "color": "#96bb5e",
+    "enabled": true
+  },
+  {
+    "file": "geral-qwen.txt",
+    "name": "Geral - Qwen Image",
+    "color": "#96bb5e",
+    "enabled": true
+  },
+  {
     "file": "quality.txt",
     "name": "Qualidade",
     "color": "#96bb5e",
