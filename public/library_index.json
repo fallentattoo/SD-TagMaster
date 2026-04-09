@@ -52,1242 +52,1242 @@
     "file": "3d-term.txt",
     "name": "3D Term",
     "color": "#e4452c",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "actor.txt",
     "name": "Actor",
     "color": "#556edb",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "actress.txt",
     "name": "Actress",
     "color": "#9cf3a9",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "adj-architecture.txt",
     "name": "Adj Architecture",
     "color": "#b76aae",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "adj-beauty.txt",
     "name": "Adj Beauty",
     "color": "#5a98ea",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "adj-general.txt",
     "name": "Adj General",
     "color": "#d49b93",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "adj-horror.txt",
     "name": "Adj Horror",
     "color": "#058dff",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "alien.txt",
     "name": "Alien",
     "color": "#3ac327",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "angel.txt",
     "name": "Angel",
     "color": "#9fa99a",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "angle.txt",
     "name": "Angle",
     "color": "#846e63",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "animal.txt",
     "name": "Animal",
     "color": "#2cf218",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-anime.txt",
     "name": "Artist Anime",
     "color": "#474ed1",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-black-white.txt",
     "name": "Artist Black White",
     "color": "#09d26a",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-botanical.txt",
     "name": "Artist Botanical",
     "color": "#a7152b",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-c.txt",
     "name": "Artist C",
     "color": "#124505",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-cartoon.txt",
     "name": "Artist Cartoon",
     "color": "#6675f1",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-concept.txt",
     "name": "Artist Concept",
     "color": "#959091",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-csv.txt",
     "name": "Artist CSV",
     "color": "#3448fd",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-dig1.txt",
     "name": "Artist Dig1",
     "color": "#1d6373",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-dig2.txt",
     "name": "Artist Dig2",
     "color": "#4f1b06",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-dig3.txt",
     "name": "Artist Dig3",
     "color": "#927888",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-director.txt",
     "name": "Artist Director",
     "color": "#513cce",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-fantasy.txt",
     "name": "Artist Fantasy",
     "color": "#94734e",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-fareast.txt",
     "name": "Artist Fareast",
     "color": "#9291c0",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-fineart.txt",
     "name": "Artist Fineart",
     "color": "#2d8eaa",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-horror.txt",
     "name": "Artist Horror",
     "color": "#5bab7b",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-n.txt",
     "name": "Artist N",
     "color": "#29820a",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-nudity.txt",
     "name": "Artist Nudity",
     "color": "#b9dbbc",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-photographer.txt",
     "name": "Artist Photographer",
     "color": "#75af57",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-scifi.txt",
     "name": "Artist Scifi",
     "color": "#6696a4",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-scribbles.txt",
     "name": "Artist Scribbles",
     "color": "#426e68",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-special.txt",
     "name": "Artist Special",
     "color": "#5b664e",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-surreal.txt",
     "name": "Artist Surreal",
     "color": "#143492",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-ukioe.txt",
     "name": "Artist Ukioe",
     "color": "#343792",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "artist-weird.txt",
     "name": "Artist Weird",
     "color": "#ccde8b",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "aspect-ratio.txt",
     "name": "Aspect Ratio",
     "color": "#3a9036",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "background-color.txt",
     "name": "Background Color",
     "color": "#ff9fcb",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "background.txt",
     "name": "Background",
     "color": "#b658ea",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "bangs.txt",
     "name": "Bangs",
     "color": "#16c03e",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "belt.txt",
     "name": "Belt",
     "color": "#577ac9",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "biome.txt",
     "name": "Biome",
     "color": "#e1bad8",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "bird.txt",
     "name": "Bird",
     "color": "#bb0a2d",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "blonde.txt",
     "name": "Blonde",
     "color": "#904f3f",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "body-fit.txt",
     "name": "Body Fit",
     "color": "#e35120",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "body-framing.txt",
     "name": "Body Framing",
     "color": "#e11dae",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "body-heavy.txt",
     "name": "Body Heavy",
     "color": "#e7857c",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "body-light.txt",
     "name": "Body Light",
     "color": "#2f5622",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "body-poor.txt",
     "name": "Body Poor",
     "color": "#8c193f",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "body-shape.txt",
     "name": "Body Shape",
     "color": "#8b69c3",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "body-shape2.txt",
     "name": "Body Shape2",
     "color": "#b549e2",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "body-short.txt",
     "name": "Body Short",
     "color": "#b60054",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "body-tall.txt",
     "name": "Body Tall",
     "color": "#9ec78a",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "braid.txt",
     "name": "Braid",
     "color": "#a25ef0",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "camera-manu.txt",
     "name": "Camera Manu",
     "color": "#979aae",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "cat.txt",
     "name": "Cat",
     "color": "#36e7f8",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "celeb.txt",
     "name": "Celeb",
     "color": "#a9dc2c",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "choker.txt",
     "name": "Choker",
     "color": "#8dedfd",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "civilization.txt",
     "name": "Civilization",
     "color": "#6b8bec",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "class.txt",
     "name": "Class",
     "color": "#51372f",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "clothing-female.txt",
     "name": "Clothing Female",
     "color": "#456064",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "clothing-male.txt",
     "name": "Clothing Male",
     "color": "#5641da",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "clothing.txt",
     "name": "Clothing",
     "color": "#3e9552",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "color.txt",
     "name": "Color",
     "color": "#0efa06",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "cosmic-galaxy.txt",
     "name": "Cosmic Galaxy",
     "color": "#811b3a",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "cosmic-nebula.txt",
     "name": "Cosmic Nebula",
     "color": "#14b68f",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "cosmic-star.txt",
     "name": "Cosmic Star",
     "color": "#9323cb",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "cosmic-term.txt",
     "name": "Cosmic Term",
     "color": "#73ef8b",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "costume-female.txt",
     "name": "Costume Female",
     "color": "#ab2fd7",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "costume-male.txt",
     "name": "Costume Male",
     "color": "#6d7bec",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "decade.txt",
     "name": "Decade",
     "color": "#6592e4",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "deity.txt",
     "name": "Deity",
     "color": "#b57a60",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "detail.txt",
     "name": "Detail",
     "color": "#1dc2e7",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "dinosaur.txt",
     "name": "Dinosaur",
     "color": "#a3b9c5",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "dog.txt",
     "name": "Dog",
     "color": "#1aa7bf",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "dress.txt",
     "name": "Dress",
     "color": "#d8fbf1",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "earrings.txt",
     "name": "Earrings",
     "color": "#8ea420",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "emoji-combo.txt",
     "name": "Emoji Combo",
     "color": "#b605b3",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "emoji.txt",
     "name": "Emoji",
     "color": "#585db6",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "expression.txt",
     "name": "Expression",
     "color": "#4a3438",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "eye-color.txt",
     "name": "Eye Color",
     "color": "#77a4d8",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "eyeliner.txt",
     "name": "Eyeliner",
     "color": "#4b72e4",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "f-stop.txt",
     "name": "F Stop",
     "color": "#40522c",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "fantasy-creature.txt",
     "name": "Fantasy Creature",
     "color": "#17e7f8",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "fantasy-setting.txt",
     "name": "Fantasy Setting",
     "color": "#2e387c",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "fantasy.txt",
     "name": "Fantasy",
     "color": "#1bbcaa",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "female-adult.txt",
     "name": "Female Adult",
     "color": "#01a9b4",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "female-young.txt",
     "name": "Female Young",
     "color": "#38cda6",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "film-genre.txt",
     "name": "Film Genre",
     "color": "#9247d2",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "fish.txt",
     "name": "Fish",
     "color": "#ba1d6d",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "flower.txt",
     "name": "Flower",
     "color": "#2d2d09",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "focal-length.txt",
     "name": "Focal Length",
     "color": "#6efecd",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "food.txt",
     "name": "Food",
     "color": "#64193b",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "forest-type.txt",
     "name": "Forest Type",
     "color": "#7c3b9e",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "fruit.txt",
     "name": "Fruit",
     "color": "#11aac6",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "furniture.txt",
     "name": "Furniture",
     "color": "#193b78",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "game.txt",
     "name": "Game",
     "color": "#74a286",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "gem.txt",
     "name": "Gem",
     "color": "#367a02",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "gen-modifier.txt",
     "name": "Gen Modifier",
     "color": "#2ee958",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "gender-ext.txt",
     "name": "Gender Ext",
     "color": "#f5f180",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "gender.txt",
     "name": "Gender",
     "color": "#efc601",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "genre.txt",
     "name": "Genre",
     "color": "#8a6cca",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "hair-accessory.txt",
     "name": "Hair Accessory",
     "color": "#6194bd",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "hair-color.txt",
     "name": "Hair Color",
     "color": "#fa75e3",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "hair-female-short.txt",
     "name": "Hair Female Short",
     "color": "#29c3f3",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "hair-female.txt",
     "name": "Hair Female",
     "color": "#5b8c64",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "hair-length.txt",
     "name": "Hair Length",
     "color": "#a2ca0c",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "hair-male.txt",
     "name": "Hair Male",
     "color": "#d7fd21",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "hd.txt",
     "name": "HD",
     "color": "#f922f0",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "headwear-female.txt",
     "name": "Headwear Female",
     "color": "#bd0dcc",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "headwear-male.txt",
     "name": "Headwear Male",
     "color": "#c139ca",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "high-heels.txt",
     "name": "High Heels",
     "color": "#2b1c9c",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "horror.txt",
     "name": "Horror",
     "color": "#29f46f",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "identity.txt",
     "name": "Identity",
     "color": "#e69402",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "interior.txt",
     "name": "Interior",
     "color": "#9da206",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "iso-stop.txt",
     "name": "Iso Stop",
     "color": "#26f030",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "juntos.txt",
     "name": "Juntos",
     "color": "#3b6c06",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "landscape.txt",
     "name": "Landscape",
     "color": "#dcd2c2",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "legwear.txt",
     "name": "Legwear",
     "color": "#18bea3",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "lipstick-shade.txt",
     "name": "Lipstick Shade",
     "color": "#606923",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "lipstick.txt",
     "name": "Lipstick",
     "color": "#6e1d62",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "location.txt",
     "name": "Location",
     "color": "#52df91",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "makeup.txt",
     "name": "Makeup",
     "color": "#d17378",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "male-adult.txt",
     "name": "Male Adult",
     "color": "#a585cc",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "male-young.txt",
     "name": "Male Young",
     "color": "#5e8943",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "monster.txt",
     "name": "Monster",
     "color": "#967376",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "movement.txt",
     "name": "Movement",
     "color": "#e693c3",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "name-female.txt",
     "name": "Name Female",
     "color": "#e40050",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "name-male.txt",
     "name": "Name Male",
     "color": "#1fc756",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "national-park.txt",
     "name": "National Park",
     "color": "#ebd2b3",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "nationality.txt",
     "name": "Nationality",
     "color": "#802148",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "neckwear.txt",
     "name": "Neckwear",
     "color": "#5290fa",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "neg-weight.txt",
     "name": "Neg Weight",
     "color": "#92f111",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "noun-beauty.txt",
     "name": "Noun Beauty",
     "color": "#ddc533",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "noun-fantasy.txt",
     "name": "Noun Fantasy",
     "color": "#47f1c1",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "noun-general.txt",
     "name": "Noun General",
     "color": "#a75edb",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "noun-horror.txt",
     "name": "Noun Horror",
     "color": "#b6cb6b",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "noun-landscape.txt",
     "name": "Noun Landscape",
     "color": "#08187c",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "noun-romance.txt",
     "name": "Noun Romance",
     "color": "#80a137",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "noun-scifi.txt",
     "name": "Noun Scifi",
     "color": "#b94557",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "nsfw-bdsm-type.txt",
     "name": "NSFW BDSM Type",
     "color": "#5c13c8",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "nsfw-bdsm.txt",
     "name": "NSFW BDSM",
     "color": "#c384f1",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "nsfw-bra.txt",
     "name": "NSFW Bra",
     "color": "#8f710f",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "nsfw-breastsize.txt",
     "name": "NSFW Breastsize",
     "color": "#7c19dd",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "nsfw-clothing-state.txt",
     "name": "NSFW Clothing State",
     "color": "#0dd749",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "nsfw-corset.txt",
     "name": "NSFW Corset",
     "color": "#63b37b",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "nsfw-cumplay.txt",
     "name": "NSFW Cumplay",
     "color": "#1d84bc",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "nsfw-expression.txt",
     "name": "NSFW Expression",
     "color": "#0f71f2",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "nsfw-fetish.txt",
     "name": "NSFW Fetish",
     "color": "#905014",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "nsfw-gag.txt",
     "name": "NSFW Gag",
     "color": "#240c21",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "nsfw-lingerie-state.txt",
     "name": "NSFW Lingerie State",
     "color": "#a38b63",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "nsfw-lingerie.txt",
     "name": "NSFW Lingerie",
     "color": "#61cc45",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "nsfw-panties.txt",
     "name": "NSFW Panties",
     "color": "#6d42f6",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "nsfw-position.txt",
     "name": "NSFW Position",
     "color": "#b0b2ac",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "nsfw-publicity.txt",
     "name": "NSFW Publicity",
     "color": "#23e373",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "nsfw-sex-act.txt",
     "name": "NSFW Sex Act",
     "color": "#ef5d6e",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "nsfw-sex-position.txt",
     "name": "NSFW Sex Position",
     "color": "#e0ec6f",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "nsfw-sex-toy.txt",
     "name": "NSFW Sex Toy",
     "color": "#d977b4",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "nsfw-subreddit.txt",
     "name": "NSFW Subreddit",
     "color": "#ddf0ca",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "occupation.txt",
     "name": "Occupation",
     "color": "#960ade",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "oil-painting.txt",
     "name": "Oil Painting",
     "color": "#708fd6",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "photo-term.txt",
     "name": "Photo Term",
     "color": "#110cc7",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "photoshoot-type.txt",
     "name": "Photoshoot Type",
     "color": "#64e233",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "planet.txt",
     "name": "Planet",
     "color": "#9b6565",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "pop-culture.txt",
     "name": "Pop Culture",
     "color": "#284437",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "pop-location.txt",
     "name": "Pop Location",
     "color": "#98aa41",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "portrait-type.txt",
     "name": "Portrait Type",
     "color": "#65d29f",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "public.txt",
     "name": "Public",
     "color": "#7d3f9e",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "punk.txt",
     "name": "Punk",
     "color": "#320214",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "purse.txt",
     "name": "Purse",
     "color": "#f4e026",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "quantity.txt",
     "name": "Quantity",
     "color": "#5cf610",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "race.txt",
     "name": "Race",
     "color": "#9cf804",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "render-engine.txt",
     "name": "Render Engine",
     "color": "#05e9bf",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "render.txt",
     "name": "Render",
     "color": "#4fd9cf",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "robot.txt",
     "name": "Robot",
     "color": "#2aef14",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "rpg-Item.txt",
     "name": "RPG Item",
     "color": "#9ca00d",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "scenario-fantasy.txt",
     "name": "Scenario Fantasy",
     "color": "#c2426a",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "scenario-romance.txt",
     "name": "Scenario Romance",
     "color": "#e7219e",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "scenario-scifi.txt",
     "name": "Scenario Scifi",
     "color": "#d6c8ef",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "scenario.txt",
     "name": "Scenario",
     "color": "#b1787e",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "scenario2.txt",
     "name": "Scenario2",
     "color": "#81e8b7",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "scifi.txt",
     "name": "Scifi",
     "color": "#2595f6",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "sculpture.txt",
     "name": "Sculpture",
     "color": "#e16afd",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "setting.txt",
     "name": "Setting",
     "color": "#87b3af",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "ship.txt",
     "name": "Ship",
     "color": "#e8b45e",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "site.txt",
     "name": "Site",
     "color": "#7188e1",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "skin-color.txt",
     "name": "Skin Color",
     "color": "#6aa09d",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "still-life.txt",
     "name": "Still Life",
     "color": "#54c962",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "style.txt",
     "name": "Style",
     "color": "#5bd1e6",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "subject-fantasy.txt",
     "name": "Subject Fantasy",
     "color": "#68c49a",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "subject-horror.txt",
     "name": "Subject Horror",
     "color": "#154acc",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "subject-romance.txt",
     "name": "Subject Romance",
     "color": "#d96e90",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "subject-scifi.txt",
     "name": "Subject Scifi",
     "color": "#071cb1",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "suit-female.txt",
     "name": "Suit Female",
     "color": "#e35164",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "suit-male.txt",
     "name": "Suit Male",
     "color": "#3b20e3",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "superhero.txt",
     "name": "Superhero",
     "color": "#11f2c5",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "supermodel.txt",
     "name": "Supermodel",
     "color": "#c07633",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "swimwear.txt",
     "name": "Swimwear",
     "color": "#974419",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "technique.txt",
     "name": "Technique",
     "color": "#5ead3b",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "time.txt",
     "name": "Time",
     "color": "#e7fdbf",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "train.txt",
     "name": "Train",
     "color": "#6f9f53",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "tree.txt",
     "name": "Tree",
     "color": "#9120f9",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "tribe.txt",
     "name": "Tribe",
     "color": "#f5996d",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "trippy.txt",
     "name": "Trippy",
     "color": "#854c8f",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "underwater.txt",
     "name": "Underwater",
     "color": "#3acf3e",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "water.txt",
     "name": "Water",
     "color": "#4fb361",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "watercolor.txt",
     "name": "Watercolor",
     "color": "#8f8817",
-    "enabled": false
+    "enabled": true
   },
   {
     "file": "wave.txt",
     "name": "Wave",
     "color": "#7cc4a2",
-    "enabled": false
+    "enabled": true
   }
 ]
